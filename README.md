@@ -1,3 +1,5 @@
-# Inferring Smartphone Application Types via Inaudible Charging Sound: A New Acoustic Side-channel Attack
+# ASiA: Acoustic Side-channel Attack for smartphone charging
 
-Will be available soon...
+Wired Charging: Inferring Smartphone Application Types via Inaudible Charging Sound (IEEE SMC '25)
+
+Wireless Charging: Will be available soon...
