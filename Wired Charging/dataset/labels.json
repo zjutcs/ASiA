@@ -1,0 +1,254 @@
+{
+  "01.wav": {
+    "app_name": "QQ",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "02.wav": {
+    "app_name": "QQ",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "03.wav": {
+    "app_name": "QQ",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "04.wav": {
+    "app_name": "QQ",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "05.wav": {
+    "app_name": "Minecraft",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "06.wav": {
+    "app_name": "Minecraft",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "07.wav": {
+    "app_name": "Minecraft",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "08.wav": {
+    "app_name": "Minecraft",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "09.wav": {
+    "app_name": "JD",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "10.wav": {
+    "app_name": "JD",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "11.wav": {
+    "app_name": "JD",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "12.wav": {
+    "app_name": "JD",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "13.wav": {
+    "app_name": "Sky:Children of the Light",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "14.wav": {
+    "app_name": "Sky:Children of the Light",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "15.wav": {
+    "app_name": "Sky:Children of the Light",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "16.wav": {
+    "app_name": "Sky:Children of the Light",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "17.wav": {
+    "app_name": "PUBG Mobile",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "18.wav": {
+    "app_name": "PUBG Mobile",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "19.wav": {
+    "app_name": "PUBG Mobile",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "20.wav": {
+    "app_name": "PUBG Mobile",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "21.wav": {
+    "app_name": "Pinduoduo",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "22.wav": {
+    "app_name": "Pinduoduo",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "23.wav": {
+    "app_name": "Pinduoduo",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "24.wav": {
+    "app_name": "Pinduoduo",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "25.wav": {
+    "app_name": "Kuaishou",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "26.wav": {
+    "app_name": "Kuaishou",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "27.wav": {
+    "app_name": "Kuaishou",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "28.wav": {
+    "app_name": "Kuaishou",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "29.wav": {
+    "app_name": "Douyin",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "30.wav": {
+    "app_name": "Douyin",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "31.wav": {
+    "app_name": "Douyin",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "32.wav": {
+    "app_name": "Douyin",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "33.wav": {
+    "app_name": "DingTalk",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "34.wav": {
+    "app_name": "DingTalk",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Xiaomi 67W Charger"
+    }
+  },
+  "35.wav": {
+    "app_name": "DingTalk",
+    "device": {
+      "phone": "Huawei Nova 6",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  },
+  "36.wav": {
+    "app_name": "DingTalk",
+    "device": {
+      "phone": "Redmi Note 12T",
+      "charger": "Ugreen Dual-Port 20W"
+    }
+  }
+}
