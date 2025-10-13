@@ -10,7 +10,7 @@ This repository contains the dataset and description for our research on acousti
 
 The dataset contains 36 audio recordings captured during smartphone charging sessions across different application scenarios. 
 
-Address: ![](https://zenodo.org/uploads/17339457)
+Address: [](https://zenodo.org/uploads/17339457)
 
 ### Recording Specifications
 
